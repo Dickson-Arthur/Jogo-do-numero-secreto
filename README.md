@@ -1,2 +1,2 @@
-# Novo-Reposit-rio
+# Novo-Repositorio
 Aula de GitHub
